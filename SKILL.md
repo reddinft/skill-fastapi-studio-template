@@ -1,7 +1,7 @@
 ---
 name: fastapi-studio-template
 description: Bootstrap a dark-themed FastAPI+HTMX studio app with SSE real-time progress, blind test mode, SQLite ratings, and Langfuse tracing. Based on the image-gen-studio architecture.
-homepage: https://github.com/reddinft/image-gen-studio
+homepage: https://github.com/reddinft/skill-fastapi-studio-template
 metadata:
   {"openclaw": {"emoji": "🎨", "requires": {"env": ["LANGFUSE_PUBLIC_KEY", "LANGFUSE_SECRET_KEY"]}}}
 ---
